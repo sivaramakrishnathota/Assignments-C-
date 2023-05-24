@@ -1,4 +1,4 @@
-test case 1 - Enter the valid input and check results
+test case 1 - Enter the valid numeric input and check results
    input -9237238289999827
    output- (9*9*9*9)=6561
 
@@ -7,7 +7,7 @@ test case 2 - Enter the invalid input and check results
     output- not possible
 
 
-test case 3- 
+test case 3- Enter the valid numeric to get max four digit product 
     input - 3489794532324
 
     output-(8*9*7*9)= 4536
