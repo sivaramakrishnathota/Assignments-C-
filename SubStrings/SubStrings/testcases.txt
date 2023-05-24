@@ -1,0 +1,8 @@
+Enter the main_string and substring 
+
+test case 1- the length of main_string should be more compare to substring
+
+		input	  main_string - "abcdefghab"
+			      subsstring -"ab"
+	    output -  0 8 2
+			      // it returns indexs of substring and at last it returns count .
